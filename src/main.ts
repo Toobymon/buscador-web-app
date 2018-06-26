@@ -3,6 +3,7 @@ import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { HeaderModule } from './app/header/header.module';
 import { MainModule } from './app/pages/main/main.module';
 import { FooterModule } from './app/footer/footer.module';
+//import { RouteModule } from './app/route/route.module';
 import { environment } from './environments/environment';
 
 if (environment.production) {
